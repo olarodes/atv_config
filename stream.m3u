@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201803/23/17/faa711e232041d7525a1bd695bf8fa8e_big.jpg" group-title="DOTA2",YYF月夜枫
+http://192.168.21.6:35455/douyu/9999
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201709/30/10/fd53f8d5fad766e5c01a84f79be2aeff_big.jpg" group-title="DOTA2",叫我老陈就好了
+http://192.168.21.6:35455/douyu/74960
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201804/06f34dadc391956ce43e714464a91671_big.jpg" group-title="DOTA2",谢彬DD
+http://192.168.21.6:35455/douyu/110
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/91be229aaec14b80a4855225885f8ff6_middle.jpg" group-title="DOTA2",Zhou陈尧
+http://192.168.21.6:35455/douyu/88660
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201906/8af79764fda34869aa87ec6c1399c671_big.jpg" group-title="DOTA2",小红豆阿
+http://192.168.21.6:35455/douyu/6591422
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/84616b06512c4e2bad81c37d8d3e3db8_middle.jpg" group-title="热门游戏",呆妹儿小霸王
+http://192.168.21.6:35455/douyu/2947432
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/6dfe5aca80214e48bc43c3a0597f2f4c_middle.jpg" group-title="熊掌文化",一番少侠29
+http://192.168.21.6:35455/douyu/4042402
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/d774bdd0c77c497c98e8f9188d871440_middle.jpg" group-title="手掌文化",右手supking
+http://192.168.21.6:35455/douyu/316022
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/f5a4f4c3ffea43df81737f11ea994c1f_middle.jpg" group-title="手掌文化",塔莉娅QAQ
+http://192.168.21.6:35455/douyu/6770423
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/c333fd4724f04ba38b4c410f2239f9d7_middle.jpg" group-title="手掌文化",果小果是个弟弟
+http://192.168.21.6:35455/douyu/6558897
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202202/6eb8810095a24668b0cdef59bbf4b8e2_middle.jpg" group-title="手掌文化",艾琳bigbaby
+http://192.168.21.6:35455/douyu/10639765
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/9d1bbf398bc14b88bcbe07f8d03079b3_middle.jpg" group-title="娱乐区",果冻cc007
+http://192.168.21.6:35455/douyu/2138443
+#EXTINF:-1 tvg-name="斗鱼4K电影" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/9deb93fa33fb4d9eb2a9bc30a465404c_big.jpg" group-title="一起看",斗鱼4K电影
+http://192.168.10.1:35455/douyu/9249162
+    
