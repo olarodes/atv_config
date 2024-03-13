@@ -33,6 +33,8 @@ http://112.50.243.8/PLTV/88888888/224/3221226760/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221227157/1.m3u8
 #EXTINF:-1,tvg-id="泉州新闻综合" tvg-name="泉州新闻综合" tvg-logo="https://epg.112114.xyz/logo/泉州新闻综合.png" group-title="福建地方台",泉州新闻综合
 http://112.50.243.8/PLTV/88888888/224/3221227165/1.m3u8
+#EXTINF:-1,tvg-id="泉州闽南语" tvg-name="泉州闽南语" tvg-logo="https://epg.112114.xyz/logo/泉州闽南语.png" group-title="福建地方台",泉州闽南语
+rtmp://live.qztv.cn/live/mny
 #EXTINF:-1,tvg-id="漳州新闻综合" tvg-name="漳州新闻综合" tvg-logo="https://epg.112114.xyz/logo/漳州新闻综合.png" group-title="福建地方台",漳州新闻综合
 http://112.50.243.8/PLTV/88888888/224/3221227169/1.m3u8
 #EXTINF:-1,tvg-id="宁德新闻综合" tvg-name="宁德新闻综合" tvg-logo="https://epg.112114.xyz/logo/宁德新闻综合.png" group-title="福建地方台",宁德新闻综合
