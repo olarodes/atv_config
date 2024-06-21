@@ -60,6 +60,8 @@ http://27.148.240.138/PLTV/88888888/224/3221227352/1.m3u8
 http://27.148.240.138/PLTV/88888888/224/3221227055/1.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
 http://27.148.240.138/PLTV/88888888/224/3221227095/1.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN
 http://27.148.240.138/PLTV/88888888/224/3221226822/1.m3u8
